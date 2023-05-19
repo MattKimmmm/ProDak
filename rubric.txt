@@ -1,0 +1,19 @@
+Shopping Site
+
+Rubric turned in on time (5 points)
+Remember to get it checked out by a TA!
+Languages/Frameworks used (20 points)
+* 10 - Learned/Used REACT.js frontend
+* 0 - Used php backend
+* 10 - MongoDB Database
+Functionality (50 points)
+* 10 Users can choose to register, login, and logout
+* 10 Logged in users can save their address and payment information.
+* 15 Users can add, edit, and delete items from their cart.
+* 15 Users can “check out”, meaning you will be guided to a confirmation page, and a confirmation email will be sent.
+Best Practices (5 points)
+* 3 Code is readable and well formatted
+* 2 All pages pass the html validator
+Creative Portion (20 points)
+
+Confirmed By: David Buckley
